@@ -103,11 +103,6 @@ function checkFlexGap() {
 }
 checkFlexGap();
 
-const newFeature = function () {
-  console.log('Welcome to the application!');
-};
-
-newFeature();
 // https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
 
 /*
